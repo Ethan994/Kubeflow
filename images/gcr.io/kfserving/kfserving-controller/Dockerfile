@@ -1,0 +1,1 @@
+FROM gcr.io/kfserving/kfservimg-controller:v0.4.1
